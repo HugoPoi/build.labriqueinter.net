@@ -1,0 +1,46 @@
+{
+  "vpnclient": {
+    "server_name": "192.168.1.141",
+    "server_port": "1194",
+    "server_proto": "udp",
+    "ip6_net": "",
+    "ip4_addr": "",
+    "crt_server_ca": "-----BEGIN CERTIFICATE-----|MIIDYDCCAkigAwIBAgIUXYc1mybzfE9Pmwf3A4xwnTOx/C8wDQYJKoZIhvcNAQEL|BQAwHTEbMBkGA1UEAwwSb3BlbnZwbi10ZXN0LmxvY2FsMB4XDTIwMDIxNjE3MDcx|OVoXDTMwMDIxMzE3MDcxOVowHTEbMBkGA1UEAwwSb3BlbnZwbi10ZXN0LmxvY2Fs|MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA16AGIkgMKoZ/jZKCFUb0|tm04Wk9tkYLcDbv8YsjSr3yCOH+lb5/xknYnHxYKQwc2ZAATH+1EmjPY1o/636TN|OwtLOG31pRezGhwGREEBXyCGsEmbU8KUXIFMHnLjJfgVGckL7F1ptdxggVFi375w|Ucevdzt0ItxRtoK4Tl/HnMTzO4jsknXmL8lNHtEcBzRUtQ5aRr9btNR310J0d1c/|aSobGdvtBZdwQ8j2nAeRIrWkPH8RiDAKVTzRlNE0ntaJcS0+mXoh47zxa1XpDI9/|+BtHrzTQ4VfNaL5Cr23ssc7g2U4SgA83XlfofaAFrO8Y+j3oijfMIYeHCYBRan39|WQIDAQABo4GXMIGUMB0GA1UdDgQWBBTm2p1B6b1bI/pT2sh7ApAHfWm/UzBYBgNV|HSMEUTBPgBTm2p1B6b1bI/pT2sh7ApAHfWm/U6EhpB8wHTEbMBkGA1UEAwwSb3Bl|bnZwbi10ZXN0LmxvY2FsghRdhzWbJvN8T0+bB/cDjHCdM7H8LzAMBgNVHRMEBTAD|AQH/MAsGA1UdDwQEAwIBBjANBgkqhkiG9w0BAQsFAAOCAQEAe7uBc4IOtrx++hiG|RdcUdEbGrI9xURBgtHTcpCTJF/fdIv82F0J/c/IOpRq5x5Cb/F+kxnud4EyfO5kg|3MhKHDv9bb65LFR64WSxA1CCFAhszduiCfL23svW5npMPh518+3mgcdqu/NCUosx|wz13LiQqL5l9CyKHL+z/QPB5QG/Uarm2Mlg4m/innKnvwd41dTDBIeTnoq90wseg|h1tvfq/me5UyfJFKqxq0bGm5zUx2BuNe/zVj72mmOKtAsq8/SicmF5Cyl5FqWFN7|HCFlaPB/tmHwnyPGrfqxfFalk4q1ygwZBCnTVC3AV0mFE31HOdX8ZC6LLzE1V0BY|aKOPww==|-----END CERTIFICATE-----",
+    "crt_client": "-----BEGIN CERTIFICATE-----|MIIDYjCCAkqgAwIBAgIRAK7QXD2+b3CSvvC1O3DIZa4wDQYJKoZIhvcNAQELBQAw|HTEbMBkGA1UEAwwSb3BlbnZwbi10ZXN0LmxvY2FsMB4XDTIwMDIxNjE3MDk0NVoX|DTIzMDEzMTE3MDk0NVowEDEOMAwGA1UEAwwFbGltZTIwggEiMA0GCSqGSIb3DQEB|AQUAA4IBDwAwggEKAoIBAQC2AUHOl4LOxXCo/2dh1RUwDlfFV7KbE7eO2t73gjtJ|0/9SWEPz7h2mnFON63VzXl6HJV3EuwdE9KjO5X6pyLrKdVwUP2HyYhgzQttSGAym|CRm3drY8zngAnhTNGfc9AMSd/lwYE6f7dsr3kaw5C/EmCwYF+czcxMG2/e+P1nFo|R0BygM0/uD2o9pNEn4dE57ZBMsDUWD1K0EiSk1RpusJgiCssNucRLiwCoSKcU2FD|UxPS7uleqWF2JRFL7O3dYhlIOLDpANkPw2w8RR94Vw6P+bRAnSEdRAN9tI0jqwbk|Z+jmcrrsCZwhKL06QUuNilGcnw4xkNTEoUaAtY02Ew7pAgMBAAGjgakwgaYwCQYD|VR0TBAIwADAdBgNVHQ4EFgQUfYo4Y2hzvv7hjyTE+Ag+wzoF1ykwWAYDVR0jBFEw|T4AU5tqdQem9WyP6U9rIewKQB31pv1OhIaQfMB0xGzAZBgNVBAMMEm9wZW52cG4t|dGVzdC5sb2NhbIIUXYc1mybzfE9Pmwf3A4xwnTOx/C8wEwYDVR0lBAwwCgYIKwYB|BQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQAXw+bTSLtor5l6|enIWyMmCzKKM8GJlg2kHIitOt8QTqVZvcJBTz1hu0Mqk5JsFli1AO+aDGljRyhzP|sQ/+R8wmSlHFpaOmZu7/2IxX6T6fQ6/Dbi1rB8ZJ06s9EPI8J5SmUHU7suXaci+M|y7e7HpHUD62LWbPg7WTHhgN/dGIDdgPc9LKqXN4p1Tt+fDEHPyFvno+lqEVmjPma|2pI4v60HRMagmSmzbAPm/EfhbiEYF0tt8eDj2hZAg1PT5S4R6WR/UwBvUFCmSKoo|95/Q6nZXcIDe/aMG+t81Gs/KopxQHi25JYfCGQoVOHhIu+J5HsVDukuIECgXTz6I|ZlrrtmZN|-----END CERTIFICATE-----|",
+    "crt_client_key": "-----BEGIN PRIVATE KEY-----|MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2AUHOl4LOxXCo|/2dh1RUwDlfFV7KbE7eO2t73gjtJ0/9SWEPz7h2mnFON63VzXl6HJV3EuwdE9KjO|5X6pyLrKdVwUP2HyYhgzQttSGAymCRm3drY8zngAnhTNGfc9AMSd/lwYE6f7dsr3|kaw5C/EmCwYF+czcxMG2/e+P1nFoR0BygM0/uD2o9pNEn4dE57ZBMsDUWD1K0EiS|k1RpusJgiCssNucRLiwCoSKcU2FDUxPS7uleqWF2JRFL7O3dYhlIOLDpANkPw2w8|RR94Vw6P+bRAnSEdRAN9tI0jqwbkZ+jmcrrsCZwhKL06QUuNilGcnw4xkNTEoUaA|tY02Ew7pAgMBAAECggEAclZZ1AIkn+czPkes1634MIdiJkxQnNGHKAxhtBWxT1EJ|/d4LWmuFXwyoBOkdkMuBEN+th5CDIZOdlNRhfSHoDpYpsWKcEpwDXfirNWh8UbY3|3KSMGakPhDvLD4o3YrBf1G1dx5ZZmkTnfx2ZlwDkjqSwNQLX6v0EQQRIAhGSjxHc|tuPu32N+a03z3yDn+YE3cUVKjTLsB+CacDqO4kQ1MH6ijY+2osYOnRxRun6hFaVe|0M/JGwu6Afr3TjSHsxSSy8fcAolRKvq0vdOAYhFYoAPlwicS37c42MpVpIxwK/cj|SHwvlCkVpFNIwIMJSyP7QdtTiCQRTHgZxBhq6UULsQKBgQDaEFyzM2cr9+xE2NE3|fttzANDF/Z1KxbNxW0Vvg94gBWhosjnjKYSCnMuDYCEQP+NOukD1WnI09CoOfL49|2Z1KHdkWPTSs5W5UTW7UiJWYZcpAS+elpOVDtmjtKUqNvUbThQfw19pT/uUuu3gX|OVZ5HIa9BvLhVibImmrhRC2SjQKBgQDVqvsCOAbXFqVRt1SrOZbJdQT9wIEZo3I5|T88vBGXRg88v2wfQjDX0kNaeLeMD3YkGQNzMxQrAmllRL4yqoePZoM8rFLlHJ91Z|fe4AIxYztHN6m9rtP3ZxO6hISv+fuGwuvvhENC2hB5OrH8IPqRN6jEDy9ho+0Jul|AM9oFxSEzQKBgHvKVhWU1LjtIT9kJkDuzv1WNS5wbt6HpPpw6dYIcgyThVYJ9zqx|0vuirxWBeMOUwSFsMnwWQEc3ZLicsBLEerocf6RUUpbkF+Hbo1MbxnChOFOPw40R|MuVho+ceTahxDsf8+SkMIHEWflwtKFtmvWQ7gXHFhBPPqGyw3IPNBGHxAoGBAJf6|KNX4Me1VfztzcjbkHHuoz2cKQQmSd1GKkex4bU+sOHdqjNFqmYoeZ3lVXC7IqYkY|I7VGxhIe9z7G2oAX7HBEcHbNI8gX89qOtvXD/yvBw43HQ94SkNWTwGvDZLUfwVsy|nHYuwvHR6NgEG811zpQRJLVsFVjumnav79ay6/ZVAoGAZ1QiVcDniY9sPND6xoDL|827ijVbwP6Uu51AY56GZbqDuRTu5+Z+UDX60mLVpmLWx8ApbEFRG9LosmmuJ3vtU|4fNpND2a5fC3mKgNMHZHEj2HlMggOPooFim1VipwT5YznnhZ5SGyj7aGczaXJAhw|7Sz5eC5PxQ2Ngu5aUj5miAI=|-----END PRIVATE KEY-----|",
+    "crt_client_ta": "-----BEGIN OpenVPN Static key V1-----|7fea665b2ee294284309eed482dc4d26|b002e628f5729c32c2ab5011edd66383|0b533a8e2e2abbef2ab2e1a961013880|133e41b2ba45691de013253db249fe2e|287749f39c99c6672073c3bf8bfbd451|e869f063bcbc4eec4e1e46bc3f78cb66|e4b81cd7f4f5de83fa5e6ce48a532241|ea99b96917e004fb2cb8a47d958a4c9b|8fadbf2a99f8f829292617c8c612de2b|3fe7d571ad55d30655e339789659e39a|1d5765cb289ba51e4b30f98b62a6745f|c93e127b98de99d97a672e8080c40d85|812fab145865fbba541aa78a346381a6|6c6c1dbd6f56cc3be37f2c7d08083bca|656f48ebf0b9a60a364f24ca29f53577|66d53e6252294011d978c078b4deffa7|-----END OpenVPN Static key V1-----",
+    "login_user": "",
+    "login_passphrase": "",
+    "dns0": "89.234.141.66",
+    "dns1": "2001:913::8",
+    "openvpn_rm": [
+      "ns-cert-type server"
+    ],
+    "openvpn_add": [
+      ""
+    ]
+  },
+  "hotspot": {
+    "wifi_ssid": "Franciliens.net",
+    "wifi_passphrase": "Franciliens.net",
+    "ip6_net": "",
+    "ip6_dns0": "2001:913::8",
+    "ip6_dns1": "2001:910:800::40",
+    "ip4_dns0": "80.67.188.188",
+    "ip4_dns1": "80.67.169.12",
+    "ip4_nat_prefix": "10.0.242",
+    "firmware_nonfree": "no"
+  },
+  "yunohost": {
+    "domain": "test-labrique.local",
+    "password": "AdminPassword",
+    "user": "hugo",
+    "user_firstname": "Hugo",
+    "user_lastname": "Hugo",
+    "user_password": "HugoPassword"
+  },
+  "unix": {
+    "root_password": "AdminPassword",
+    "lang": "fr"
+  }
+}
